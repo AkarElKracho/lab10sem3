@@ -1,0 +1,20 @@
+﻿  sem3lab10.cpp
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(131,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(145,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(150,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(157,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(170,51): warning C4566: символ, представленный универсальным именем символа "\u221E", невозможно представить в текущей кодовой странице (1251)
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(204,41): warning C4566: символ, представленный универсальным именем символа "\u221E", невозможно представить в текущей кодовой странице (1251)
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(212,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(224,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(232,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(248,51): warning C4566: символ, представленный универсальным именем символа "\u221E", невозможно представить в текущей кодовой странице (1251)
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(262,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(287,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(309,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(331,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(353,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(375,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(390,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\source\repos\sem3lab10\sem3lab10\sem3lab10.cpp(435,21): warning C4566: символ, представленный универсальным именем символа "\u221E", невозможно представить в текущей кодовой странице (1251)
+  sem3lab10.vcxproj -> C:\Users\admin\source\repos\sem3lab10\x64\Debug\sem3lab10.exe
